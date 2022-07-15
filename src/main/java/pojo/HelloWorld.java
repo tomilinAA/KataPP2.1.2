@@ -1,3 +1,5 @@
+package pojo;
+
 public class HelloWorld {
  
     private String message;

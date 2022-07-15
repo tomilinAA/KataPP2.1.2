@@ -3,6 +3,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
 import pojo.Cat;
+import pojo.HelloWorld;
 
 @Configuration
 public class AppConfig {

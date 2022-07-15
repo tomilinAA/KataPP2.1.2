@@ -6,6 +6,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import pojo.Cat;
+import pojo.HelloWorld;
 
 
 @RunWith(SpringJUnit4ClassRunner.class)
